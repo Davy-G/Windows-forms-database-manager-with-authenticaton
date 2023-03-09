@@ -1,0 +1,55 @@
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\obj\Debug\Login Page.csproj.AssemblyReference.cache
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.LoginPage.resources
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.Properties.Resources.resources
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\obj\Debug\Login Page.csproj.GenerateResource.cache
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\obj\Debug\Login Page.csproj.CoreCompileInputs.cache
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\bin\Debug\Azure Project Task 1.exe.config
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\bin\Debug\Azure Project Task 1.exe
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\bin\Debug\Azure Project Task 1.pdb
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\bin\Debug\EntityFramework.dll
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\bin\Debug\EntityFramework.xml
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\obj\Debug\Login Page.csproj.CopyComplete
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\obj\Debug\Azure Project Task 1.exe
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\obj\Debug\Azure Project Task 1.pdb
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.CreateProductPage.resources
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.Databaseshower.resources
+E:\Documents\Programming\C#\Azure Project Task 1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.UpdateProduct.resources
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\Azure Project Task 1.exe.config
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\Azure Project Task 1.exe
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\Azure Project Task 1.pdb
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\EntityFramework.dll
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\EntityFramework.xml
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Login Page.csproj.AssemblyReference.cache
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Login Page.csproj.SuggestedBindingRedirects.cache
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.Databaseshower.resources
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.CreateProductPage.resources
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.UpdateProduct.resources
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.LoginPage.resources
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.Properties.Resources.resources
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Login Page.csproj.GenerateResource.cache
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Login Page.csproj.CoreCompileInputs.cache
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Login Page.csproj.CopyComplete
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure Project Task 1.exe
+E:\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure Project Task 1.pdb
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\Azure Project Task 1.exe.config
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\Azure Project Task 1.exe
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\Azure Project Task 1.pdb
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\EntityFramework.dll
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\EntityFramework.xml
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Login Page.csproj.AssemblyReference.cache
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.Databaseshower.resources
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.CreateProductPage.resources
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.UpdateProduct.resources
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.LoginPage.resources
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure_Project_Task_1.Properties.Resources.resources
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Login Page.csproj.GenerateResource.cache
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Login Page.csproj.CoreCompileInputs.cache
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Login Page.csproj.CopyComplete
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure Project Task 1.exe
+C:\Users\dgogo\Documents\Programming\C#\Azure Project Task №1\Azure Project Task 1\obj\Debug\Azure Project Task 1.pdb
