@@ -8,4 +8,4 @@
    <li>Database content browsing</li>
    <li>Database editing</li>
  </ul>
-<img ref="https://qu.ax/xftf.png">
+<img href="https://qu.ax/xftf.png">
